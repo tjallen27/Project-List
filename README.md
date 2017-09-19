@@ -3,7 +3,7 @@
 A list of projects I am planning on making and reasons why I have decided to build them.
 
 * ~~Music Blog (Rails/AngularJS)~~
-  Develop AngularJS and API 
+  <sub><sup>Develop AngularJS and API</sup></sub> 
 * ~~Property Search App (Rails/AngularJS)~~
   Develop AngularJS and API   
 * ~~React Project 1 - Realtime Search~~
