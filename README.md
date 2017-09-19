@@ -3,15 +3,15 @@
 A list of projects I am planning on making and reasons why I have decided to build them.
 
 * ~~Music Blog (Rails/AngularJS)~~
-⋅⋅* Develop AngularJS and API
+⋅⋅*Develop AngularJS and API
 * ~~Property Search App (Rails/AngularJS)~~
-⋅⋅* Develop AngularJS and API   
+⋅⋅*Develop AngularJS and API   
 * ~~React Project 1 - Realtime Search~~
-⋅⋅* Learning React
+⋅⋅*Learning React
 * React Project 2 - RSVP App (In Progress)
-⋅⋅* Learning React
+⋅⋅*Learning React
 * React Project 3 - Counter App
-⋅⋅* Learning React
+⋅⋅*Learning React
 * MERN Stack Project 1 - tbd
-⋅⋅* Learning React and Node.js
+⋅⋅*Learning React and Node.js
 
