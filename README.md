@@ -7,4 +7,4 @@
 * AJAX Request in React
 * React Simple Router 
 * React Project 3 - Counter App (TeamTreehouse)
-* Univeral JavaScript App - tbd
+* Univeral JavaScript App (React & Node) - tbd
