@@ -5,5 +5,6 @@
 * ~~React Project 1 - Realtime Search~~ [View Here](https://github.com/tjallen27/react-search-app)
 * React Project 2 - RSVP App (In Progress)
 * AJAX Request in React
+* React Simple Router 
 * React Project 3 - Counter App (TeamTreehouse)
 * Univeral JavaScript App - tbd
