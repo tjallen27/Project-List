@@ -5,9 +5,5 @@
 * ~~React Project 1 - Realtime Search~~ [View Here](https://github.com/tjallen27/react-search-app)
 * ~~React Project 2 - RSVP App~~ [View Here](https://github.com/tjallen27/react-rsvp)
 * Re-build Barzurk (Rails/AngularJS) In Progress
-* AJAX Request in React (In Progress)
-* React Simple Router 
-* React Project 3 - Counter App (TeamTreehouse)
-* Property Search App Re-Build (React & Node)
-* Univeral JavaScript App (React & Node)
-* UI Kit
+* Javascript payment processing (Node / Express )
+* Univeral JavaScript App / Shop (React & Node)
